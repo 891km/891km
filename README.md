@@ -1,7 +1,7 @@
 ## <div align="left">👋 안녕하세요, 김민주입니다.</div>  
   
 
-
+<video src="https://github.com/user-attachments/assets/fd39c8cc-ecac-42a8-afb0-9a26b2824130"/>
 
 <!--
 **891km/891km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
