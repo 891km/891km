@@ -1,9 +1,7 @@
-## 👋 안녕하세요, 프론트엔드 개발자 김민주입니다.
-  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=891km&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/891km?pet-id=829331706736518108"
-    width="600"
+    width="100%"
     height="240"
   />
 </a>
